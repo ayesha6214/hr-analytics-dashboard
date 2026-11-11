@@ -37,8 +37,7 @@ This project focuses on analyzing HR data to understand employee attrition, work
 
 ## 📷 Dashboard Preview
 
-![HR Analytics Dashboard](<img width="1600" height="900" alt="Dasboard Screenshot" src="https://github.com/user-attachments/assets/8668e785-7bbf-4e6a-b704-69e9f0e5f697" />
-)
+![HR Analytics Dashboard](./Dasboard%20Screenshot.png)
 
 ## 📁 Project Files
 
